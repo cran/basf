@@ -1,5 +1,5 @@
 Package: basf
-Version: 0.1.0
+Version: 0.2.0
 Title: Plot Simple Features with 'base' Sensibilities
 Description: Resurrects the standard plot for shapes established by the
  'base' and 'graphics' packages. This is suited to workflows that require
@@ -11,16 +11,16 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Depends: sf
 URL: https://github.com/mdsumner/basf
 BugReports: https://github.com/mdsumner/basf/issues
 Suggests: spelling, testthat (>= 2.1.0), vdiffr
 Language: en-US
-Imports: tibble
+Imports: tibble, raster
 NeedsCompilation: no
-Packaged: 2020-04-12 04:58:35 UTC; mdsumner
+Packaged: 2020-12-09 04:18:25 UTC; mdsumner
 Author: Michael Sumner [aut, cre]
 Maintainer: Michael Sumner <mdsumner@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-04-15 09:20:14 UTC
+Date/Publication: 2020-12-09 08:30:18 UTC
